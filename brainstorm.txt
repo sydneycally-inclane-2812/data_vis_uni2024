@@ -1,0 +1,11 @@
+You are the headmaster of SP Jain, and you're looking for Vietnamese students to admit to SP Jain.
+Questions:
+- How reliable is the graduation exam at evaluating students' performance (how much does the percentiles change throughout the years)
+- Which subject significantly improved/decined throughout the years
+- How many students don't take all parts of the exam? where are they usually?
+- How do scores vary by region (major city vs suburban vs rural)
+- Some opt for a different second language. Any difference/correlation? Only 2023 and 2024 has data on this.
+- Is there correlation between math/literature scores vs natural/social science subjects scores?
+- How does COVID affect 2021's performance?
+- Vietnamese HS education is undergoing a radical change, and 2024 is the final year the old program is in effect. How does it look like?
+- How much scholarship should you offer to a particular student?
