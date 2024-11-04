@@ -1,7 +1,7 @@
 You are the headmaster of SP Jain, and you're looking for Vietnamese students to admit to SP Jain.
 Questions:
 - How reliable is the graduation exam at evaluating students' performance (how much does the percentiles change throughout the years)
-- Which subject significantly improved/decined throughout the years
+- Which subject significantly improved/decined throughout the years 
 - How many students don't take all parts of the exam? where are they usually?
 - How do scores vary by region (major city vs suburban vs rural)
 - Some opt for a different second language. Any difference/correlation? Only 2023 and 2024 has data on this.
@@ -13,3 +13,11 @@ Questions:
 
 Sauce
 https://www.vietnamplus.vn/ty-le-tot-nghiep-trung-hoc-pho-thong-lien-tuc-tang-trong-nhieu-nam-post988851.vnp
+
+personal weekly income vietnam: 559 from 456
+personal weekly income china: 601 from 374
+india 1015 from 785
+philippines 898 from 746
+us 1020 from 832
+uk 813 from 707
+
