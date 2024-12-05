@@ -6,4 +6,4 @@ Important files include:
 - `requirements.txt`: libraries needed to run the code
 - `raw_data`: aggregated through many sources
 - `cleaned_data`: fixed column name mismatch and reorder to be uniform, easier for data analysis
-  
+- `presentation.pptx`: presentation file, complete with analysis and visualizations
